@@ -1,0 +1,13 @@
+{
+    'users': {
+        'suxuan': [
+            ('python语言设计实践','ZHS1I0018[01]')
+        ],
+        'recommend': [
+            ('','ZHS1I0018[01]'),('电子商务','ZHS1I0018[01]')
+        ],
+        'sckey': 'SCU54265T618d42692ee8ad5a903205aa66d5c0a85d147c34da430'
+    },
+    'begintime':7,
+    'endtime':1
+}
